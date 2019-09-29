@@ -1,4 +1,4 @@
-package com.turingsoulapps.lifesavingcalculator;
+package com.example.calculator;
 
 public class CalculatorModel {
 
